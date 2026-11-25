@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/4GaHBQh3f4jBEpbQvP/giphy.gif" width="400"/>
-
-<br/>
-
 # Merhaba, Ben Jülide Nimet! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 ### QA Engineer | .NET Developer | CRM Architect
@@ -11,6 +7,8 @@
 </div>
 
 ---
+
+<img align="right" alt="We Can Code It" width="300" src="https://media.giphy.com/media/4GaHBQh3f4jBEpbQvP/giphy.gif"/>
 
 ### &nbsp;Hakkımda
 
