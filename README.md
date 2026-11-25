@@ -1,18 +1,14 @@
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/238353480-de7f8942-3b22-4ccf-8102-acecf6e5ebc2.gif" width="350"/>
+
 # Merhaba, Ben Jülide Nimet! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 ### QA Engineer | .NET Developer | CRM Architect
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=500&lines=Kaliteyi+kodla+buluşturuyorum;Test+%2B+Development+%3D+Better+Software;CRM+%26+Enterprise+Solutions)](https://git.io/typing-svg)
-
 </div>
 
 ---
-
-<img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif"/>
 
 ### &nbsp;Hakkımda
 
