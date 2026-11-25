@@ -14,7 +14,7 @@
 
 - SDLC'nin analiz, geliştirme ve test aşamalarında uçtan uca dijital dönüşüm süreçlerini yönetiyorum
 - **Logo ERP** sistemi üzerinde süreç analizi yapıyor, **Logo Flow** ile iş akışlarını sıfırdan kodluyorum
-- Şirketimizin **B2B platformunu** Full Stack Developer olarak sıfırdan inşa ediyorum
+- Şirketimizin **B2B platformu**, **CRM** ve **ERP** çözümlerini Full Stack Developer olarak geliştiriyorum
 - Karmaşık iş gereksinimlerini teknik çözümlere dönüştürerek süreç otomasyonu sağlıyorum
 - Turkcell, BiP gibi yüksek trafikli platformlarda **Senior QA Engineer** deneyimim var
 
@@ -43,6 +43,7 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 #### Frontend
