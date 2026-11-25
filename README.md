@@ -1,6 +1,6 @@
 <div align="center">
 
-# Merhaba, Ben Nimet! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+# Merhaba, Ben Jülide Nimet! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 ### QA Engineer | .NET Developer | CRM Architect
 
