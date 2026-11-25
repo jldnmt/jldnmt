@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/238353480-de7f8942-3b22-4ccf-8102-acecf6e5ebc2.gif" width="350"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+
+<br/>
 
 # Merhaba, Ben Jülide Nimet! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
